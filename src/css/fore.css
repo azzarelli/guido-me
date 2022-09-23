@@ -1,0 +1,51 @@
+/* ForeGround [Common across work-spaces (view-styles)] */
+
+  
+.scale{
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    bottom: 0px;
+    background-color: brown;
+}
+
+/* (RHS) Search Bar & Results
+    - Outer Container
+    - Key-display and input Container
+        - Key-display (display path)
+        - Key-Input (display last input character/word)
+*/
+.sb_container{
+    position: fixed;
+    right:0;
+    width: 500px;
+    height: 100%;
+}
+.sb_displayinput{
+    position: relative;
+    left: 5px;
+    top:10px;
+    width: 400px;
+    height: 40px;
+    background-color: green;    
+
+    text-align: left;
+    text-overflow: clip;
+}
+.sb_pathview{
+    position: relative;
+    left: 15px;
+    top:10px;
+
+    width: 390px;
+    height: 40px;
+    background-color: grey;    
+
+    text-align: justify;
+    overflow-y:  hidden;
+}
+.cmdtext{
+    position: relative;
+    left: 15px;
+    top:7px;
+}  

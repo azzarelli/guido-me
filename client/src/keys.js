@@ -91,18 +91,7 @@ export class DispKey extends React.Component{
 
             }
             else if(event.code == 'Enter'){
-                async function fetchText() {
-                    let hdrs = "application/x-bibtex";
-
-                    let response = new Request('http://dx.doi.org/10.5594/M001868', {
-                                                method:'POST',
-                                                headers:new Headers({'Content-Type':'application/x-bibtex'})
-                                                });
-
-                    let data = await response.text();
-                    console.log(fetch(response));
-                }
-                fetchText();
+                this.longinputcodetext = '  :  '+this.latestcmd;
 
             }
         }

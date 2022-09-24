@@ -1,11 +1,6 @@
 
 
-//   "scripts": {
-//     "start": "react-scripts start",
-//     "build": "react-scripts build",
-//     "test": "react-scripts test",
-//     "eject": "react-scripts eject"
-//   },
+
 
 var path = require('path');
 const fs = require("fs");

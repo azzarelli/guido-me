@@ -1,0 +1,82 @@
+{
+    "papers": {
+      "property1": {
+        "doi": "10.1016/j.biopsych.2005.08.012",
+        "abstract": "Our findings suggest that amygdala activation to interpersonal threat can be specifically linked to the severity of social anxiety symptoms of individual GSP patients, and thus, may serve as a useful functional marker of disease severity.",
+        "authors": [
+          {
+            "family": "Phan",
+            "given": "K. Luan"
+          },
+          {
+            "family": "Fitzgerald",
+            "given": "Daniel A."
+          },
+          {
+            "family": "Nathan",
+            "given": "Pradeep J."
+          },
+          {
+            "family": "Tancer",
+            "given": "Manuel E."
+          }
+        ],
+        "editorialNotices": [],
+        "issns": [
+          "0006-3223"
+        ],
+        "issue": "5",
+        "journal": "Biological Psychiatry",
+        "journalSlug": "biological-psychiatry-5GzJD",
+        "memberId": 78,
+        "page": "424-429",
+        "publisher": "Elsevier BV",
+        "retracted": false,
+        "shortJournal": "Biological Psychiatry",
+        "slug": "association-between-amygdala-hyperactivity-to-gVamGz",
+        "title": "Association between Amygdala Hyperactivity to Harsh Faces and Severity of Social Anxiety in Generalized Social Phobia",
+        "type": "journal-article",
+        "volume": "59",
+        "year": 2006
+      },
+      "property2": {
+        "doi": "10.1016/j.biopsych.2005.08.012",
+        "abstract": "Our findings suggest that amygdala activation to interpersonal threat can be specifically linked to the severity of social anxiety symptoms of individual GSP patients, and thus, may serve as a useful functional marker of disease severity.",
+        "authors": [
+          {
+            "family": "Phan",
+            "given": "K. Luan"
+          },
+          {
+            "family": "Fitzgerald",
+            "given": "Daniel A."
+          },
+          {
+            "family": "Nathan",
+            "given": "Pradeep J."
+          },
+          {
+            "family": "Tancer",
+            "given": "Manuel E."
+          }
+        ],
+        "editorialNotices": [],
+        "issns": [
+          "0006-3223"
+        ],
+        "issue": "5",
+        "journal": "Biological Psychiatry",
+        "journalSlug": "biological-psychiatry-5GzJD",
+        "memberId": 78,
+        "page": "424-429",
+        "publisher": "Elsevier BV",
+        "retracted": false,
+        "shortJournal": "Biological Psychiatry",
+        "slug": "association-between-amygdala-hyperactivity-to-gVamGz",
+        "title": "Association between Amygdala Hyperactivity to Harsh Faces and Severity of Social Anxiety in Generalized Social Phobia",
+        "type": "journal-article",
+        "volume": "59",
+        "year": 2006
+      }
+    }
+  }
